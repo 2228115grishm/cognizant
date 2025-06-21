@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\cognizant\E_commerce_search\obj\Debug\net9.0\E_commerce_search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\cognizant\E_commerce_search\obj\Debug\net9.0\E_commerce_search.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\cognizant\E_commerce_search\obj\Debug\net9.0\E_commerce_search.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\cognizant\E_commerce_search\obj\Debug\net9.0\E_commerce_search.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\cognizant\E_commerce_search\bin\Debug\net9.0\E_commerce_search.exe
+C:\Users\KIIT\Desktop\cognizant\E_commerce_search\bin\Debug\net9.0\E_commerce_search.deps.json
+C:\Users\KIIT\Desktop\cognizant\E_commerce_search\bin\Debug\net9.0\E_commerce_search.runtimeconfig.json
+C:\Users\KIIT\Desktop\cognizant\E_commerce_search\bin\Debug\net9.0\E_commerce_search.dll
+C:\Users\KIIT\Desktop\cognizant\E_commerce_search\bin\Debug\net9.0\E_commerce_search.pdb
+C:\Users\KIIT\Desktop\cognizant\E_commerce_search\obj\Debug\net9.0\E_commerce_search.dll
+C:\Users\KIIT\Desktop\cognizant\E_commerce_search\obj\Debug\net9.0\refint\E_commerce_search.dll
+C:\Users\KIIT\Desktop\cognizant\E_commerce_search\obj\Debug\net9.0\E_commerce_search.pdb
+C:\Users\KIIT\Desktop\cognizant\E_commerce_search\obj\Debug\net9.0\E_commerce_search.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\cognizant\E_commerce_search\obj\Debug\net9.0\ref\E_commerce_search.dll

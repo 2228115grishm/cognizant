@@ -1,0 +1,24 @@
+1. Asymptotic Notation and Search Scenarios
+Big O notation measures algorithm scalability by describing how runtime grows relative to input size 
+n. It quantifies worst-case efficiency, ignoring constants and lower-order terms. For search operations:
+Best-case: O(1)(target found immediately)
+Average-case: Expected performance over random inputs.
+Worst-case: O(n) for linear search (target missing/last element), O(logn) for binary search.
+Complexity Analysis and Platform Recommendation
+Time Complexity Comparison
+
+Algorithm	Best-case	Worst-case
+Linear Search	O(1)	O(n)
+Binary Search	O(1)	O(log n)
+Platform Suitability
+Binary search is optimal for e-commerce platforms because:
+Logarithmic scaling: For 1 million products, binary search needs ~20 comparisons vs. 500,000 average for linear search
+Real-world efficiency: Product databases are typically indexed/sorted during ingestion
+Large dataset performance: Reduces latency for high-traffic search operations.
+
+Optimization Recommendations
+Pre-sort data: Sort products during database ingestion
+Hybrid approach: Use linear search for small inventories (<100 items), binary search for larger datasets
+Indexing: Combine with hash tables for O(1) lookups when product IDs are knownBinary search provides superior scalability for 
+e-commerce platforms due to its logarithmic time complexity. The initial sorting overhead is negligible compared to ongoing 
+search efficiency gains, especially for catalogs exceeding 10,000 products.
