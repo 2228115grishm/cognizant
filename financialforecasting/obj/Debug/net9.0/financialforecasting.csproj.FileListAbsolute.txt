@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\cognizant\financialforecasting\bin\Debug\net9.0\financialforecasting.exe
+C:\Users\KIIT\Desktop\cognizant\financialforecasting\bin\Debug\net9.0\financialforecasting.deps.json
+C:\Users\KIIT\Desktop\cognizant\financialforecasting\bin\Debug\net9.0\financialforecasting.runtimeconfig.json
+C:\Users\KIIT\Desktop\cognizant\financialforecasting\bin\Debug\net9.0\financialforecasting.dll
+C:\Users\KIIT\Desktop\cognizant\financialforecasting\bin\Debug\net9.0\financialforecasting.pdb
+C:\Users\KIIT\Desktop\cognizant\financialforecasting\obj\Debug\net9.0\financialforecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\cognizant\financialforecasting\obj\Debug\net9.0\financialforecasting.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\cognizant\financialforecasting\obj\Debug\net9.0\financialforecasting.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\cognizant\financialforecasting\obj\Debug\net9.0\financialforecasting.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\cognizant\financialforecasting\obj\Debug\net9.0\financialforecasting.dll
+C:\Users\KIIT\Desktop\cognizant\financialforecasting\obj\Debug\net9.0\refint\financialforecasting.dll
+C:\Users\KIIT\Desktop\cognizant\financialforecasting\obj\Debug\net9.0\financialforecasting.pdb
+C:\Users\KIIT\Desktop\cognizant\financialforecasting\obj\Debug\net9.0\financialforecasting.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\cognizant\financialforecasting\obj\Debug\net9.0\ref\financialforecasting.dll
