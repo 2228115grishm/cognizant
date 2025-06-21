@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\cognizant\singletonpatternex\bin\Debug\net9.0\singletonpatternex.exe
+C:\Users\KIIT\Desktop\cognizant\singletonpatternex\bin\Debug\net9.0\singletonpatternex.deps.json
+C:\Users\KIIT\Desktop\cognizant\singletonpatternex\bin\Debug\net9.0\singletonpatternex.runtimeconfig.json
+C:\Users\KIIT\Desktop\cognizant\singletonpatternex\bin\Debug\net9.0\singletonpatternex.dll
+C:\Users\KIIT\Desktop\cognizant\singletonpatternex\bin\Debug\net9.0\singletonpatternex.pdb
+C:\Users\KIIT\Desktop\cognizant\singletonpatternex\obj\Debug\net9.0\singletonpatternex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\cognizant\singletonpatternex\obj\Debug\net9.0\singletonpatternex.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\cognizant\singletonpatternex\obj\Debug\net9.0\singletonpatternex.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\cognizant\singletonpatternex\obj\Debug\net9.0\singletonpatternex.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\cognizant\singletonpatternex\obj\Debug\net9.0\singletonpatternex.dll
+C:\Users\KIIT\Desktop\cognizant\singletonpatternex\obj\Debug\net9.0\refint\singletonpatternex.dll
+C:\Users\KIIT\Desktop\cognizant\singletonpatternex\obj\Debug\net9.0\singletonpatternex.pdb
+C:\Users\KIIT\Desktop\cognizant\singletonpatternex\obj\Debug\net9.0\singletonpatternex.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\cognizant\singletonpatternex\obj\Debug\net9.0\ref\singletonpatternex.dll
